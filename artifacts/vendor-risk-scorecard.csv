@@ -1,0 +1,2 @@
+Vendor,Data Sensitivity (1-5),Access Level (1-5),Business Criticality (1-5),Compliance Impact (1-5),Vendor Maturity (1-5),Total Score,Risk Tier,Notes
+Example Vendor,4,3,4,4,3,18,High,Processes PII and integrates with core system
