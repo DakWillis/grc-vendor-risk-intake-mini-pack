@@ -1,0 +1,2 @@
+Vendor,Date,Requester,Business Owner,Risk Tier,Decision (Approve/Approve w Conditions/Reject),Conditions,Next Review Date,Evidence Received,Notes
+Example Vendor,2026-01-13,Requester Name,Business Owner,High,Approve w Conditions,"MFA required; SOC2 required before renewal",2027-01-13,"SOC2 pending",Track completion
