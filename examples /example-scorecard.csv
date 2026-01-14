@@ -1,0 +1,2 @@
+Vendor,Data Sensitivity (1-5),Access Level (1-5),Business Criticality (1-5),Compliance Impact (1-5),Vendor Maturity (1-5),Total Score,Risk Tier (Low/Med/High),Rationale (1-2 sentences),Reviewer,Review Date (YYYY-MM-DD)
+,FILL,FILL,FILL,FILL,FILL,=SUM(B2:F2),FILL,FILL,FILL,FILL
