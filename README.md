@@ -18,3 +18,10 @@ Third-party risk is a common source of security, privacy, and compliance exposur
 3. Score the vendor using `artifacts/vendor-risk-scorecard.csv`
 4. Request evidence using `artifacts/evidence-request-checklist.md`
 5. Document the decision in `artifacts/vendor-decision-log.csv`
+
+## Quickstart (15-minute vendor review)
+1. Fill out the intake: `artifacts/vendor-intake-form.md`
+2. Score the vendor: `artifacts/vendor-risk-scorecard.csv`
+3. Select evidence based on tier: `artifacts/evidence-request-checklist.md`
+4. Document the decision: `artifacts/vendor-decision-log.csv`
+5. Set the next review date based on risk tier: see `docs/01-workflow.md`
