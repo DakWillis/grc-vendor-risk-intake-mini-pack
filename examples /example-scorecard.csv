@@ -1,3 +1,5 @@
 Vendor,Data Sensitivity (1-5),Access Level (1-5),Business Criticality (1-5),Compliance Impact (1-5),Vendor Maturity (1-5),Total Score,Risk Tier (Low/Med/High),Rationale (1-2 sentences),Reviewer,Review Date (YYYY-MM-DD)
 fdfdf,FILL,FILL,FILL,FILL,FILL,=SUM(B2:F2),FILL,FILL,FILL,FILL
-CloudPeople HR,4,3,3,3,2,=SUM(B3:F3),Medium,FILL,FILL,FILL
+CloudPeople HR,4,3,3,3,2,=SUM(B3:F3),Medium,"Staff PII + partial financial data processed. SOC 2 Type II 
+present. SSO enforced via Google Workspace. One subprocessor 
+disclosed.",IT Lead,2026-03-01
