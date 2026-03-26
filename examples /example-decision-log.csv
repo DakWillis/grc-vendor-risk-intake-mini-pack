@@ -1,2 +1,7 @@
 Vendor,Date (YYYY-MM-DD),Requester,Business Owner,Risk Tier,Decision (Approve/Approve w Conditions/Reject),Conditions (if any),Required Evidence Outstanding,Next Review Date (YYYY-MM-DD),Reviewer,Notes
 ,FILL,FILL,FILL,FILL,FILL,FILL,FILL,FILL,FILL,FILL
+CloudPeople HR (fictional),2026-03-01,IT Lead,Operations Manager,
+Medium,Approve with Conditions,"SOC2 Type II reviewed before 
+go-live; MFA confirmed via SSO; subprocessor list accepted; 
+data deletion clause in contract",None - all evidence received,
+2028-03-01,IT Lead,Medium tier = 2-year renewal cycle
