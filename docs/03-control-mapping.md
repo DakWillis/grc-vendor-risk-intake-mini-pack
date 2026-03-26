@@ -1,6 +1,7 @@
 # Control Mapping (Lightweight)
 
 This mapping shows how the vendor risk intake workflow supports common control expectations (framework-agnostic).
+
 Use it to communicate traceability from risk → control → evidence → decision.
 
 ## Mapping table
